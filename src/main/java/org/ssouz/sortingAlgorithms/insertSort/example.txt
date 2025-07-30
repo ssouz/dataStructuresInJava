@@ -1,0 +1,24 @@
+exemplo = 3, 1, 4, 1, 5, 9, 2, 6, 5, 3
+
+
+int key = pega o conteudo na posicao i do array;
+int j = pega a posicao do array - 1
+
+
+ele cria uma sublist pulando a verificacao do primeiro elemento
+
+[3]
+[3,2] = verdadeiro troca [ 2,3] // aqui comeca a ordenacao
+[2,3,4] = falso nao troca
+[2,3,4,1] = verdadeiro troca 
+
+[2,3,1,4]
+[2,1,3,4]
+[1,2,3,4]
+
+
+
+
+
+
+
