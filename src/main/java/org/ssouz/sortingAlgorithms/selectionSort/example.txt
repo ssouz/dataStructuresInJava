@@ -1,0 +1,9 @@
+exemplo = 3, 1, 4, 1, 5, 9, 2, 6, 5, 3
+
+selection sort =  for searching the smallest number 
+in the array [3, 1, 4, 1, 5, 9, 2, 6, 5, 3] when its find
+will minindex variable will recieve the value
+
+and  will replace the array[1] with the value 
+
+and repeat array.length
