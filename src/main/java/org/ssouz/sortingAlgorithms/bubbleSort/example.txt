@@ -1,0 +1,44 @@
+exemplo = 3, 1, 4, 1, 5, 9, 2, 6, 5, 3
+
+
+
+variavel de troca vazia
+
+
+bubblesort = if [3 ] > [1] = atribuir a variavel de troca o 1 e passe o conteudo da primeira casa para a segunda 
+
+1, 3, 4, 1, 5, 9, 2, 6, 5, 3
+
+bubblesort = if [3 ] > [4] = nao troca
+
+1, 3, 4, 1, 5, 9, 2, 6, 5, 3
+
+bubblesort = if [4] > [1] = troca
+
+1, 3, 1, 4, 5, 9, 2, 6, 5, 3
+
+bubblesort = if [4] > [5] = nao troca
+
+1, 3, 1, 4, 5, 9, 2, 6, 5, 3
+
+bubblesort = if [5] > [9] = nao troca
+
+1, 3, 1, 4, 5, 9, 2, 6, 5, 3
+
+bubblesort = if [9] > [2] = troca
+
+1, 3, 1, 4, 5, 2, 9, 6, 5, 3
+
+bubblesort = if [9] > [6] = troca
+
+1, 3, 1, 4, 5, 2, 6, 9, 5, 3
+
+bubblesort = if [9] > [5] = troca
+
+1, 3, 1, 4, 5, 2, 6, 5, 9, 3
+
+bubblesort = if [9] > [3] = troca
+1, 3, 1, 4, 5, 2, 6, 5, 3, 9
+
+
+primeira run do bs conlcluida agora ele repete array.length() ate todos os itens serem percorridos 
